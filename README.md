@@ -1,10 +1,10 @@
 # Repositório de guias e tutoriais
 
-* Sublime Text 3 e 4 e LaTeX
+* **Sublime Text 3 e 4 e LaTeX
   * Guia de como utilizar Sublime Text como editor para compilação offline de documentos TeX
   * Nomenclatura no Sublime Text com TexLive
   
-* Raspberry Pi 4 montagem e configuração
+* **Raspberry Pi 4 montagem e configuração
   Iniciando Rpi 4 do zero:
   * instalação do Raspberry Pi OS
   * acesso remoto ao raspberry pi 4 usando RealVNC
@@ -13,7 +13,7 @@
   * instalação e uso do git
   * git e virtualenv
   
-* Configurações de dispositivos de áudio: Raspberry Pi 3
+* **Configurações de dispositivos de áudio: Raspberry Pi 3
   * ALSA
   * PulseAudio
   * PortAudio
