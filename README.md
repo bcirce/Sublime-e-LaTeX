@@ -1,7 +1,7 @@
 # Repositório de guias e tutoriais
 
 * Sublime Text 3 e 4 e LaTeX
-  * Guia de como utilizar Sublime Text como editor para compilação offline de documentos TeX.
+  * Guia de como utilizar Sublime Text como editor para compilação offline de documentos TeX
   * Nomenclatura no Sublime Text com TexLive
   
 * Raspberry Pi 4 montagem e configuração
