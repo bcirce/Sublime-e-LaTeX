@@ -17,3 +17,8 @@
   * PulseAudio
   * PortAudio
   * ALSA e PulseAudio (expondo o Pulse à ALSA)
+  * *documento um pouco desatualizado, pode conter erros
+
+Em breve:
+- [ ] Adicionar configurações de áudio Rpi (artigo Acustica2020)
+- [ ] Tutorial resposta combinada de alto-falantes (monitoria caixas acústicas)
