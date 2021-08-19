@@ -5,7 +5,6 @@
   * Nomenclatura no Sublime Text com TexLive
   
 * **Raspberry Pi 4 montagem e configuração**
-  Iniciando Rpi 4 do zero:
   * instalação do Raspberry Pi OS
   * acesso remoto ao raspberry pi 4 usando RealVNC
   * Python e VScode
